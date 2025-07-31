@@ -14,6 +14,7 @@ This site is a log of what I'm building and learning.
 - **Living Lab Rat Hospital** *(future)*: Hospital built on systems that promote efficient development and research.
 
 ## 📚 Learning Log
+- *July 30:* The start of this website! <3
 - *July 31:* Started reading “Wearable Biosensors: A Review.” Summarizing key mechanisms and use cases.
 - *August 3:* Built my first breadboard circuit with Arduino.
 
