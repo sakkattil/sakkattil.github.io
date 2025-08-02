@@ -15,8 +15,12 @@ This site is a log of what I'm building and learning.
 
 ## 📚 Learning Log
 - *July 30:* The start of this website! <3
-- *July 31:* Started reading “Wearable Biosensors: A Review.” Summarizing key mechanisms and use cases.
+- *July 31:* Started reading [“Wearable Biosensors: A Review.”](https://pmc.ncbi.nlm.nih.gov/articles/PMC9842037/#btm210318-sec-0001) Summarizing key mechanisms and use cases.
 - *August 3:* Built my first breadboard circuit with Arduino.
+- To-Do Bucket:
+- ⬜[Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- ⬜[Scientific Computing with Python - FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+- ⬜[Math Basic - Huawei](https://e.huawei.com/en/talent/outPage/#/sxz-course/home?courseId=_bvlgZaYen17HthakI7VEXcbPcM)
 
 ## 🔗 Links
 - [GitHub](https://github.com/your-username)
