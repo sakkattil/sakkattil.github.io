@@ -4,11 +4,12 @@ I'm exploring biomedical engineering, medical devices, improving health-care sys
 This site is a log of what I'm building and learning.
 
 ## 🚧 Projects
-- **ECG Signal Analysis**: Using Python to process and analyze heart rate variability.
+- **Med-Link** *(in-progress)*:Initiative to introduce stronger pre-med development oppurtinities to our local HS. 
+- **ECG Signal Analysis** *(future)*: Using Python to process and analyze heart rate variability.
     - Using open-source ECG datasets to analyze heart rate variability
     - Writing Python code to extract and plot R-peaks
     - Goal: understand how real-world biosignals are used in health tracking
-- **Arduino Fall Detector** *(in progress)*: A motion sensor project for health monitoring.
+- **Arduino Fall Detector** *(future)*: A motion sensor project for health monitoring.
     - Designing a simple fall detection prototype using motion sensors
     - Will log motion data and trigger a warning when fall-like patterns are detected
 - **Living Lab Rat Hospital** *(future)*: Hospital built on systems that promote efficient development and research.
